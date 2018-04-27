@@ -1,0 +1,2 @@
+* Selecting Data
+ * Mention =.schema= after lookng at =.table=
