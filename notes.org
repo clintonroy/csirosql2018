@@ -1,2 +1,6 @@
+* Before starting
+ * introductions
+ * please ask questions at any time
+ * SQL is quite standard, everything you learn here today will have equivalents in other environments.
 * Selecting Data
  * Mention =.schema= after lookng at =.table=
