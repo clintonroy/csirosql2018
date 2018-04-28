@@ -1,7 +1,11 @@
 * Before starting
  * Introductions
  * Please ask questions at any time.
+ * instructor background
+ * code of conduct
+ * workshop operations (stickies? remote person somehow into group? split cohort into 2 x 3 groups?)
  * SQL is quite standard, everything you learn here today will have equivalents in other environments.
+
 * Selecting Data
  * Mention tab completion
  * Mention =.schema= after lookng at =.table=
