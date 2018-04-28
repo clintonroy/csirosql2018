@@ -1,6 +1,9 @@
 * Before starting
- * introductions
- * please ask questions at any time
+ * Introductions
+ * Please ask questions at any time.
  * SQL is quite standard, everything you learn here today will have equivalents in other environments.
 * Selecting Data
+ * Mention tab completion
  * Mention =.schema= after lookng at =.table=
+* Missing Values
+ * mentioning =.nullvalue= would be useful at the start of this lesson.
