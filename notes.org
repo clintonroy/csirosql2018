@@ -5,9 +5,10 @@
  * code of conduct
  * workshop operations (stickies? remote person somehow into group? split cohort into 2 x 3 groups?)
  * SQL is quite standard, everything you learn here today will have equivalents in other environments.
-
 * Selecting Data
  * Mention tab completion
  * Mention =.schema= after lookng at =.table=
 * Missing Values
  * mentioning =.nullvalue= would be useful at the start of this lesson.
+* Creating and Modifying Data
+ * Think about adding units to column names
