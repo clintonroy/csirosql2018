@@ -1,4 +1,4 @@
-* Before starting
+* Before Starting
  * Introductions
  * Please ask questions at any time.
  * instructor background
@@ -12,3 +12,40 @@
  * mentioning =.nullvalue= would be useful at the start of this lesson.
 * Creating and Modifying Data
  * Think about adding units to column names
+
+* Looking forward
+ * Different implementations
+ * Stored Procedures
+ * Extensions
+
+* Issues we had
+ * The wide variety of skills and abilities of participants
+ * Would have been better to group participants slightly differently;
+   instructors were only able to adjust this day 2
+ * Not having enough unix skills:
+  * Could use a lesson of basic unix tools, like awk, sed grep, uniq,
+    sort etc
+  * command line (not really knowing when they were in bash or sqlite,
+    getting confused when sqlite3 commands weren't working in bash and
+    visa versa)
+  * fairly basic things like ls, cd, unzip could not really be relied
+    on.
+  * familiarity and comfort with github was not great
+  * R syntax such as library::function was not familiar
+ * Quite a few times where we had assumed certain concepts had been
+   covered and they had not e.g. wildcards in LIKE statements rely on
+   using the same concept as .* from regular expressions or * from
+   file globs and they didn't really have that underlying concept that
+   we could reuse/build upon.
+ * Technical issues with the server rstudio. We had issues where it
+   would hang and we had to restart it. We had issues with copy and
+   paste not working. 
+ * they had no working knowledge of pandas, and it would be useful to
+   tie that knowledge in. Ideally use the same database they've
+   already looked at (the mammals one) to do the querying and
+   filtering in pandas (multiple ways of doing the same thing)
+ * Tab completion not working on the sliqte3 binary was very weird.
+ * Library room was nice, worked fairly well. Remote participation
+   actually worked reasonably well for most of the time, with only
+   occasional audio issues.
+
