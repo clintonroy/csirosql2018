@@ -8,6 +8,7 @@
 * Selecting Data
  * Mention tab completion
  * Mention =.schema= after lookng at =.table=
+ * Mention =LIMIT= after showing =SELECT=
 * Missing Values
  * mentioning =.nullvalue= would be useful at the start of this lesson.
 * Creating and Modifying Data
