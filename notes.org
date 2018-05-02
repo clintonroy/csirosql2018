@@ -24,7 +24,7 @@
  * Would have been better to group participants slightly differently;
    instructors were only able to adjust this day 2
    
- Issues that are addressable prior to next running of training
+* Issues that are addressable prior to next running of training
  * Not having enough unix skills
  * command line (not really knowing when they were in bash or sqlite, getting confused when sqlite3 commands weren't working in bash and visa versa)
  * fairly basic things like ls, cd, unzip could not really be relied on.
@@ -43,7 +43,7 @@
    file globs and they didn't really have that underlying concept that
    we could reuse/build upon.
    
- Techinical issues
+* Techinical issues
  * Technical issues with the server rstudio. We had issues where it
    would hang and we had to restart it. We had issues with copy and
    paste not working. 
